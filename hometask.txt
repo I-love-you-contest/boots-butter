@@ -1,0 +1,4 @@
+Файлы humans.txt в ветках master и demo больше не отличаются. 
+В отличии от файла README. В ветке master имеются доп слова: "with nice buttons on his jacket (buttons branch)"
+
+Всего 2 собственных комита, не считая этот.
